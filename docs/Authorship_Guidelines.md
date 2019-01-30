@@ -1,8 +1,3 @@
----
-output:
-  html_document:
-    keep_md: true
----
 # Carey Lab Authorship Guidelines
 *Last updated 17 Jan. 2019*
 
