@@ -2,7 +2,7 @@
 title: "Carey Lab Authorship Guidelines"
 output:
   html_document:
-     keep_md: true
+    keep_md: true
 ---
 
 *Last updated 17 Jan. 2019*
