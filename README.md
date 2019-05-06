@@ -5,6 +5,7 @@ Useful files for members of the [Carey Lab](https://www.carey.biol.vt.edu/)
 
 ### Field Supplies Checklists   
 * [FCR General- **Mondays**](https://github.com/CareyLabVT/LabDocuments/blob/master/docs/FCR_General_Field_Checklist.md)
+* [FCR General- **Thursdays**](https://github.com/CareyLabVT/LabDocuments/blob/master/docs/FCR_General_Field_Checklist_Thurs.md)
 * [BVR General](https://github.com/CareyLabVT/LabDocuments/blob/master/docs/BVR_General_Field_Checklist.md)
 
 ### Lab Standard Operating Procedures (SOPs)
