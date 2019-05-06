@@ -1,0 +1,17 @@
+# General RStudio files to ignore
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Mac OS files to ignore
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Ignore rendered html files
+/**/*.html
