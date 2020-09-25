@@ -1,7 +1,5 @@
----
-title: "Reservoir Group Code of Conduct"
-output: html_document
----
+# Reservoir Group Code of Conduct
+
 
 We are committed to providing a safe, inclusive, and harassment-free experience to everyone, including all group members and visitors. This code of conduct will be enforced as needed and applies to all Reservoir Group members; we note that this code supplements existing university and department policies. This code was developed with the goal of affirming our shared values of diversity, equity, and inclusion and is grounded in our group’s commitment to everyone’s growth and development, both personally and scientifically. This is a living document and we will revisit and update this document annually at our lab retreat.
 
