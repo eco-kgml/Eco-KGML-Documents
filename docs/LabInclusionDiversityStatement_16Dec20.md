@@ -1,4 +1,4 @@
-# Reservoir Group Code of Conduct
+# Reservoir Group Inclusion and Diversity Statement
 
 We are committed to providing a safe, inclusive, and harassment-free experience to everyone. This statement was developed with the goal of affirming our shared values of diversity, equity, and inclusion (DEI) and is grounded in our group’s commitment to everyone’s personal and scientific growth and development. This is a living document that we will revisit and update annually at our lab retreat.
 
