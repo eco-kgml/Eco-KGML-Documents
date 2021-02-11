@@ -25,4 +25,4 @@ We are actively working to promote greater inclusivity in our group, the communi
 
 ## Attribution
 
-This document was initially drafted by Cayelan Carey and Maddy Schreiber and revised and improved by all Reservoir Group members.
+This document was initially drafted by Cayelan Carey and Maddy Schreiber and iteratively revised and improved by all members of the Reservoir Group.
