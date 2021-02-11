@@ -38,6 +38,6 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 ## Attribution
 
-This document was initially drafted by Cayelan Carey and Maddy Schreiber and iteratively revised and improved by graduate students and postdocs in Reservoir Group. We were inspired by the Weecology's code of conduct throughout our process of crafting this document (https://www.weecology.org/lab-wiki/code-of-conduct/)
+This document was initially drafted by Cayelan Carey and Maddy Schreiber and iteratively revised and improved by all members of the Reservoir Group. We were inspired by the Weecology's code of conduct throughout our process of crafting this document (https://www.weecology.org/lab-wiki/code-of-conduct/)
 
 
