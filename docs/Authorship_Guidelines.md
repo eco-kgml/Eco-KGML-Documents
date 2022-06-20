@@ -1,10 +1,26 @@
 # Carey Lab Authorship Guidelines
-*Last updated 10 August 2021*
+*Last updated 20 June 2022*
 
 ## Aim
-The aim of this document is to outline expectations for authorship on lab products (e.g., presentations, publications, EDI data products, etc.). Our goal is to be inclusive of all potential collaborators who have provided meaningful contributions, without whom the final product would not have been possible. We encourage product leads to discuss authorship early in the evolution of a project and continue to check in about authorship at project milestones (e.g., at the transition from data collection to analysis to writing). We strongly encourage the project lead and coauthors to work together to document their contributions – both at the initiation of and throughout a research activity that is expected to result in a product – in a formal authorship contribution statement. We hope this document will inspire discussion among coauthors throughout the project.
+The aim of this document is to outline expectations for authorship on lab products (e.g., presentations, publications, EDI data products, etc.). Our goal is to be inclusive of all potential collaborators who have provided meaningful contributions, without whom the final product would not have been possible. We encourage product leads to discuss authorship early in the evolution of a project and continue to check in about authorship at project milestones (e.g., at the transition from data collection to analysis to writing). It is our expectation that the project lead and coauthors will work together to document their contributions – both at the initiation of and throughout a research activity that is expected to result in a product – in a formal authorship contribution statement. We hope this document will inspire discussion among our lab and coauthors throughout the project.
 
 ***
+
+## Our Philosophy
+
+Our philosophy is to be inclusive, transparent, and communicative about authorship throughout the development of lab products. To that end, these guidelines establish a framework for initiating communication about authorship when lab products are conceived, as well as guidelines to ensure ongoing communication about authorship throughout product development and publication. _Our focus here is specifically on lab manuscripts and presentations that emerge from Reservoir Group and Carey Lab activities outside of funded project teams that have project-specific authorship guidelines. EDI data products are discussed separately below._
+
+Our authorship policy is founded on three principles: 
+1) Team members will be proactive in identifying expected manuscripts that are based on Reservoir Group data and notifying team members who have contributed as data product leads over time, as well as others who have substantially contributed to the research activity, so that all interested individuals have an opportunity to participate; 
+2) Upon initiation of a presentation or manuscript based on Reservoir Group data, the lead author(s) will contact all lab members who have contributed to data collection or the research activity via e-mail to identify potential co-authors who wish to be actively involved in presentation or manuscript development (see more below); and 
+3) Co-authors work with lead author(s) to track their contributions throughout the research activity, which will be documented in a formal authorship contribution statement in all manuscripts. Because presentations are usually developed early in the scientific process, co-authorship for that research activity may evolve over time and necessitates a new authorship discussion when the presentation becomes a manuscript.  
+
+Below is a draft coauthorship invitation memo from the lead author(s) of a manuscript that is to be adapted as necessary and emailed at the beginning of a new research activity that is expected to lead to one or more manuscripts. Early notification of a research activity to the team ensures complete information about: 
+a)	what research is being conducted, 
+b)	which team members are leading and/or already participating in the research, 
+c) 	which team members have already contributed to data collection, and 
+c)	all parties interested in co-authorship are identified early in the process of manuscript development. 
+
 
 ## What merits coauthorship?
 
@@ -25,7 +41,7 @@ We do not necessarily consider data collection or lab analysis of samples to war
 
 
 ## Undergraduate student/Research technician coauthorship
-We realize that knowing what constitutes a meaningful contribution for coauthorship is challenging and may vary among projects/labs, so we encourage undergraduate assistants and research technicians to discuss these issues with their lab mentors at the beginning and throughout their time in the lab. Because many undergraduates may not know that authorship on a peer-reviewed product is a possibility or what the expectations for authorship may entail, it is especially important for their lab mentor and CCC to help guide those conversations as appropriate given the level of work that the student is completing in the lab. For example, the goal of conducting an undergraduate thesis in the lab is a publishable manuscript for a peer-reviewed journal, so it is important for thesis students and their lab mentor(s) to have ongoing discussions about manuscript development and authorship. 
+We realize that knowing what constitutes a meaningful contribution for coauthorship is challenging and may vary among projects/labs, so we encourage undergraduate assistants and research technicians to discuss these issues with their lab mentors at the beginning and throughout their time in the lab. Because many undergraduates may not know that authorship on a peer-reviewed product is a possibility or what the expectations for authorship may entail, it is especially important for their lab mentor and CCC to help guide those conversations as appropriate given the level of work that the student is completing in the lab. For example, the goal of conducting an undergraduate thesis in the lab is a publishable manuscript for a peer-reviewed journal, so it is important for thesis students and their lab mentor(s) to have ongoing discussions about manuscript development and authorship. We note that it is rare for most undergraduates to be co-authors on manuscripts because it usually requires multiple years of work from the time a project is initated and a paper is published.
 
 In the case of undergraduate theses, the independent research contribution that is required to complete a thesis inherently merits coauthorship on products resulting from that work. In some cases, it may be appropriate for the lab mentor to be lead or corresponding author on a product after the undergraduate graduates, depending on the situation. Conversely, it is usually more challenging to identify if other research assistant activities in the lab (e.g., sample prep, data analysis) merit coauthorship. As noted above, we do not consider the collection or analysis of field and laboratory data by paid undergraduate assistants or research technicians to warrant coauthorship unless independent intellectual contributions are provided above and beyond the tasks they are assigned as part of their basic job description or course requirements. 
 
@@ -47,8 +63,60 @@ Because of the substantive amount of work needed to archive data, we have develo
 
 To merit co-authorship in this second group, the collaborators need to contribute in at least two roles, which include (but are not limited to!): substantial fieldwork throughout the field season for the routine monitoring data collection (e.g., sampling at the reservoirs most weeks in the summer and contributing in the fall/winter/spring as able); leading sensor/instrument maintenance/deployment; leading field crew; initiating new data streams; leading QAQC; maintaining data wireless transmission and connectivity; in-lab chemical or microscopic analyses; and data analyses (including substantial digitization and processing). 
 
-The first group of point people will be permanently retained as co-authors on a dataset over time (through each additional revision of the dataset). The second group of collaborators will be updated every year. An authorship contribution statement describing each co-author’s contributions during that year will be included within the Notes section of the EDI data package, similar to authorship contribution statements on journal publications. As an example, “CCC developed and coordinated monitoring program. MEL led maintenance of instrument and data collection and was the point person for this dataset; ZYX led data QAQC and substantially contributed to fieldwork."
+The first group of point people will be permanently retained as co-authors on a dataset over time (through each additional revision of the dataset). The second group of collaborators will be updated every year. An authorship contribution statement describing each co-author’s contributions during that year will be included within the Notes section of the EDI data package, similar to authorship contribution statements on journal publications. As an example, “CCC developed and coordinated monitoring program. ABC led maintenance of instrument and data collection and was the point person for this dataset; ZYX led data QAQC and substantially contributed to fieldwork." The one exception is when a dataset is first published, in which case all present _and_ past contributors should be included as co-authors in that year, even those in the second group of collaborators. 
+
+We expect leaders of manuscripts based on lab data products to contact that dataset's historical point people (for the relevant years of the analysis) as potential co-authors, even if those point people are no longer in the lab.
 
 These guidelines apply to all Reservoir Group members (faculty, postdocs, technicians, graduate students, undergraduates) and emerged from continued discussions within our group about data product authorship. Because the practice of data publishing is rapidly changing, we anticipate the need to revisit and revise this section periodically to enable these guidelines to evolve over time.
 
 ***
+
+## Draft Reservoir Group Manuscript Authorship Invitation Memo 
+
+TO: [Fill in relevant group members' names]
+
+FROM: [Fill in lead author(s) names]
+ 
+MANUSCRIPT TITLE: [Fill in tentative title and target journal] 
+
+MANUSCRIPT TYPE: [Fill in manuscript type: e.g., graduate student thesis or dissertation; disciplinary research; interdisciplinary research; essay, concept, or commentary; data or methods; other (please describe)]
+
+CURRENT CO-AUTHORS AND AUTHORSHIP CONTRIBUTIONS: [Fill in existing co-author(s) names and existing authorship contributions]
+
+I (We) are contacting you because you have been listed as a potential co-author on the above manuscript that is associated with the Reservoir Group. Below is a list of potential contributions by co-authors on manuscripts; the general expectation is that all co-authors have contributed in at least two ways to a manuscript. This list is intended to foster an open dialogue on authorship that starts at the very beginning phase of a manuscript and carries through until manuscript submission and acceptance. This document is intended to clearly define each co-author’s responsibilities and accomplishments throughout the effort, as well as the overall strategy for determining co-authorship as described below. 
+
+1.	If you are interested in being a co-author on this manuscript, we ask that you describe in specific terms the ways that you will contribute to the manuscript. Some examples of manuscript contributions are listed below (note that this list is not exhaustive; please contact the lead author(s) if you would like to make contributions not included in the list). For each contribution, please be as specific as possible (e.g., instead of “collect data,” please specify what types of data will be collected, when, and how this data collection will occur). 
+2.	Addition of co-authors. We recognize that in some cases it may be impossible to identify all co-authors at the beginning stages of a manuscript. In situations when an individual’s expertise is added to a manuscript in the middle of the manuscript development process, they should be added to the author list if their contributions satisfy the conditions described below.
+3.	We encourage students and postdocs to talk with their mentors about the appropriateness of opting-in as a co-author on project manuscripts.
+4.	This list of potential contributions is not intended to be a checklist: we recognize that there are many different possible types of contributions to manuscripts throughout the initiation, development, analysis, and writing processes and that it is difficult to compare these contributions. Our goal is to be as inclusive and flexible as possible for each person who makes a substantive contribution to the manuscript. Here, we define a substantive contribution as a contribution in which the manuscript would not have been possible without it, or that it substantially enhances the breadth or quality of the manuscript. The specific contributions of each participant will be considered on a case-by-case basis and co-authorship status and order will be determined as the outcome of a discussion between manuscript lead(s), potential co-authors, and mentors.
+5.	Once contributions are identified, the manuscript lead(s) and co-authors should work together to track their contributions (tasks and subtasks) to ensure transparency with the full research team and enable coordination of manuscript activities within the authorship team.
+6.	Author ordering will be determined by the order of significance of contributions by each co-author to the final manuscript. It will most often be the case that the manuscript lead(s) will be listed first, followed by co-authors in order of contribution and research mentor as last author. Where different contributions cannot be compared, an alphabetical listing of co-authors is the recommended practice.
+7.	In general, data provision alone (e.g., if you have contributed as a dataset's point person) is not assumed a priori to warrant co-authorship. If any dataset point person/data provider expresses an interest in co-authorship, it is the responsibility of the manuscript lead(s) to contact that person to identify what other contributions justify co-authorship. 
+8.	All co-authors must approve the final version of the manuscript prior to submission. It is unethical to submit a manuscript in which all co-authors did not read and approve the final submitted version. This task is not included in the contributions list below because all co-authors must do it. Moreover, all co-authors must stay in contact with the manuscript lead(s) throughout the drafting and submission process. If a co-author no longer remains in contact to approve the manuscript, they cannot ethically be kept as co-authors on the submitted version. 
+9.	Co-authors are held accountable for the content of the manuscript. This idea provides an important distinction between a co-author and someone who is listed in the acknowledgements. We recognize that every co-author will not have full knowledge of all aspects of the research; however, they need to know enough to defend the work.
+10.	An authorship contribution paragraph is to be included for each manuscript, as required by many journals. This step is important to ensure that all co-authors (particularly early-career team members) are recognized for their contributions. If some journals don’t automatically require these statements, we recommend adding it to the Acknowledgements section in the manuscript.
+
+Examples of Potential Co-author Contributions
+Potential co-author contributions identified here are a starting point for team members to think about whether their contributions to a manuscript rise to the level of co-authorship. This is by no means an exhaustive list of ways in which co-authors may contribute, and not all of these contributions may warrant co-authorship. As the project evolves and different types of manuscripts are created, the contributions made by potential co-authors are likely to vary significantly and should be evaluated on a case-by-case basis.
+
+Examples of Concept and Design Contributions
+1.	Conceived or contributed to the conception of a manuscript idea/overarching topic such that input helped define the fundamental contribution of the manuscript
+2.	Designed/outlined the manuscript
+3.	Contributed to the conceptual/theoretical framework for the manuscript
+4.	Supervised and/or co-supervised authors and manuscript progress
+5.	Provided platform for research to occur (e.g., facilitated interactions with water utility, received funding that enabled research, created infrastructure that enabled research interactions to occur, etc.)
+
+Examples of Research Contributions
+1.	Contributed to data collection in a substantive way (e.g., served as dataset point person for at least one year of the analysis)
+2.	Oversaw or led quality assurance/quality control (QA/QC) of data
+3.	Developed or calibrated models or a part of a model
+4.	Contributed new analyses or methods
+5.	Interpreted results or placed results in a context to enhance the greater contributions of the analysis
+
+Examples of Writing Contributions
+1.	Wrote sections of text, even if the text was not retained in the final manuscript version 
+2.	Designed figures and tables
+3.	Performed critical reviews or substantial re-working of manuscript
+
+Other
+We welcome additional contributions and encourage a potential co-author to discuss other contributions with the lead author(s).
