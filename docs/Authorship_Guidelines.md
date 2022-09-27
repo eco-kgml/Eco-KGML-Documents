@@ -1,5 +1,5 @@
 # Carey Lab Authorship Guidelines
-*Last updated 23 September 2022*
+*Last updated 27 September 2022*
 
 ## Aim
 The aim of this document is to outline expectations for authorship on lab products (e.g., presentations, publications, EDI data products, etc.). Our goal is to be inclusive of all potential collaborators who have provided meaningful contributions, without whom the final product would not have been possible. We encourage product leads to discuss authorship early in the evolution of a project and continue to check in about authorship at project milestones (e.g., at the transition from data collection to analysis to writing). It is our expectation that the project lead and coauthors will work together to document their contributions – both at the initiation of and throughout a research activity that is expected to result in a product – in a formal authorship contribution statement. We hope this document will inspire discussion among our lab and coauthors throughout the project.
