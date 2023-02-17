@@ -1,11 +1,11 @@
-# Reservoir Group Code of Conduct
+# Eco-KGML Code of Conduct
 
 
-We are committed to providing a safe, inclusive, and harassment-free experience to everyone, including all group members and visitors. This code of conduct will be enforced as needed and applies to all Reservoir Group members; we note that this code supplements existing university and department policies. This code was developed with the goal of affirming our shared values of diversity, equity, and inclusion and is grounded in our group’s commitment to everyone’s growth and development, both personally and scientifically. This is a living document and we will revisit and update this document annually at our lab retreat.
+We are committed to providing a safe, inclusive, and harassment-free experience to everyone, including all group members and visitors. This code of conduct will be enforced as needed and applies to all Reservoir Group members; we note that this code supplements existing university and department policies. This code was developed with the goal of affirming our shared values of diversity, equity, and inclusion and is grounded in our group’s commitment to everyone’s growth and development, both personally and scientifically. This is a living document we can and will revisit and update.
 
 ## Philosophy and motivation
 
-The philosophy of the Reservoir Group is to enable and support good science by creating a harassment and discrimination-free experience for everyone. We are committed to supporting and training a diverse scientific workforce; our diversity is a strength and having multiple perspectives and backgrounds inherently makes our science better. 
+The philosophy of Eco-KGML is to enable and support good science by creating a harassment and discrimination-free experience for everyone. We are committed to supporting and training a diverse scientific workforce; our diversity is a strength and having multiple perspectives and backgrounds inherently makes our science better. 
 
 Safe, inclusive, and harassment-free environments don’t just happen: they are created by the day-to-day interactions we all have with each other. Thus, it is the responsibility of all members of our group to help create and maintain a safe, inclusive, harassment-free environment so that we may all benefit from it. Discrimination or harassment based on racial or ethnic background, citizenship status, religion (or lack thereof), country or region of origin, political affiliation, gender identity/expression, sexual orientation, dis/ability status, appearance, or body size will not be tolerated. We do not tolerate harassment or discrimination by and/or of members of our community in any form.
 
@@ -38,6 +38,6 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 ## Attribution
 
-This document was initially drafted by Cayelan Carey and Maddy Schreiber and iteratively revised and improved by all members of the Reservoir Group. We were inspired by the Weecology's code of conduct throughout our process of crafting this document (https://www.weecology.org/lab-wiki/code-of-conduct/)
+This document was initially drafted by Cayelan Carey and Maddy Schreiber and iteratively revised and improved by all members of the Reservoir Group. We were inspired by the Weecology's code of conduct throughout our process of crafting this document (https://www.weecology.org/lab-wiki/code-of-conduct/). This document has been amended to reflect its applicability to Eco-KGML.
 
 
