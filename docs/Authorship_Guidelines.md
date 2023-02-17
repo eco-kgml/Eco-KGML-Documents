@@ -1,4 +1,4 @@
-# Carey Lab Authorship Guidelines
+# Eco-KGML Authorship Guidelines
 *Last updated 27 September 2022*
 
 ## Aim
